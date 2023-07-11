@@ -1,1 +1,1 @@
-Personalized Federated Framework for Internet of Medical things(IOMT)
+Personalized Federated Learning Framework for Internet of Medical things(IOMT)
