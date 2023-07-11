@@ -1,0 +1,1 @@
+{"num_clients":10,"num_classes":3,"non_iid":true,"balance":false,"partition":"pat","Size of samples for labels in clients":[[[0,18],[1,22]],[[0,24],[1,24]],[[0,25],[1,18]],[[0,21],[1,28]],[[0,44],[1,13]],[[0,140],[1,301]],[[2,29]],[[2,14]],[[2,19]],[[2,274]]],"alpha":0.1,"batch_size":10}
